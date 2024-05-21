@@ -3,6 +3,7 @@
 - right-click = input flag onto board
 - x           = delete / reset tile
 - t           = opens prompt to change board size to given input (input should be formatted as "10x10")
+- i           = opens prompt to import .MINE file
 - space       = run ATL.solve() on board 
 
 **Solver Notes:**
