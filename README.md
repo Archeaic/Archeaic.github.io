@@ -1,9 +1,9 @@
 **Controls:**
-0-8           = input number onto board
-right-click   = input flag onto board
-x             = delete / reset tile
-t             = opens prompt to change board size to given input (input should be formatted as "10x10")
-space         = run ATL.solve() on board 
+- 0-8         = input number onto board
+- right-click = input flag onto board
+- x           = delete / reset tile
+- t           = opens prompt to change board size to given input (input should be formatted as "10x10")
+- space       = run ATL.solve() on board 
 
 **Solver Notes:**
 - running ATL.solve() multiple times in a row may return new safe cells as it utilizes previously found information to look further
