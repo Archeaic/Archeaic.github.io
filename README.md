@@ -5,6 +5,7 @@
 - t           = opens prompt to change board size to given input (input should be formatted as "10x10")
 - i           = opens prompt to import .MINE file
 - space       = run ATL.solve() on board
+- r           = performs reduction on tile that the mouse is hovering on
 - p           = generate puzzle with parameters 5, 32, 6, 30
 
 **Solver Notes:**
